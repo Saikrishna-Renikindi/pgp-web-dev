@@ -505,6 +505,7 @@ row-gap: 30px;
     color:white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* display: flex; */
+    /* background-color: red; */
 }
 .footer_title{
      font-weight:lighter;
@@ -514,6 +515,7 @@ row-gap: 30px;
 } 
 .quick_links{
     list-style-type: none;
+    
 }
 .quick_link{
     font-size: 20px;
